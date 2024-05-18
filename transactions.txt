@@ -1,0 +1,6 @@
+
+	Amount debited: $350.0	Date: 2024/05/18 14:29:05
+	Amount credited: $3500.0	Date: 2024/05/18 14:29:05
+	Amount debited: $2130.0	Date: 2024/05/18 14:29:05
+	Amount credited: $7500.0	Date: 2024/05/18 14:29:05
+	Amount debited: $5000.0	Date: 2024/05/18 14:29:05
